@@ -1,0 +1,37 @@
+{"List of Cities": [
+    {
+        "Label": "",
+        "City Name": "Wellington",
+        "Latitude": -41.292,
+        "UTC Zone Offset": 0,
+        "Longitude": 174.779
+    },
+    {
+        "Label": "Home",
+        "City Name": "Vancouver",
+        "Latitude": 49.2827,
+        "UTC Zone Offset": -7,
+        "Longitude": -123.1207
+    },
+    {
+        "Label": "School",
+        "City Name": "Montreal",
+        "Latitude": 45.5019,
+        "UTC Zone Offset": -4,
+        "Longitude": -73.5674
+    },
+    {
+        "Label": "Family",
+        "City Name": "Seoul",
+        "Latitude": 37.5519,
+        "UTC Zone Offset": 9,
+        "Longitude": 126.9918
+    },
+    {
+        "Label": "Dream City",
+        "City Name": "Vienna",
+        "Latitude": 48.208,
+        "UTC Zone Offset": 2,
+        "Longitude": 16.374
+    }
+]}

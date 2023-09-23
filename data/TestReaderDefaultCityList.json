@@ -1,0 +1,23 @@
+{"List of Cities": [
+    {
+        "Label": "Home",
+        "City Name": "Vancouver",
+        "Latitude": 49.2827,
+        "UTC Zone Offset": -7,
+        "Longitude": -123.1207
+    },
+    {
+        "Label": "School",
+        "City Name": "Montreal",
+        "Latitude": 45.5019,
+        "UTC Zone Offset": -4,
+        "Longitude": -73.5674
+    },
+    {
+        "Label": "Family",
+        "City Name": "Seoul",
+        "Latitude": 37.5519,
+        "UTC Zone Offset": 9,
+        "Longitude": 126.9918
+    }
+]}

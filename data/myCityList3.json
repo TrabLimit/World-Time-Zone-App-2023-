@@ -1,0 +1,65 @@
+{"List of Cities": [
+    {
+        "Label": "School",
+        "City Name": "Montreal",
+        "Latitude": 45.5019,
+        "UTC Zone Offset": -4,
+        "Longitude": -73.5674
+    },
+    {
+        "Label": "Trip",
+        "City Name": "Melbourne",
+        "Latitude": -37.814,
+        "UTC Zone Offset": 10,
+        "Longitude": 144.963
+    },
+    {
+        "Label": "Evita",
+        "City Name": "Buenos Aires",
+        "Latitude": -34.613,
+        "UTC Zone Offset": -3,
+        "Longitude": -58.377
+    },
+    {
+        "Label": "Iceland Capital",
+        "City Name": "Reykjavík",
+        "Latitude": 64.147,
+        "UTC Zone Offset": 0,
+        "Longitude": -21.941
+    },
+    {
+        "Label": "Southernmost",
+        "City Name": "Puerto Williams",
+        "Latitude": -54.935,
+        "UTC Zone Offset": -3,
+        "Longitude": -67.606
+    },
+    {
+        "Label": "Dream Workplace",
+        "City Name": "Singapore",
+        "Latitude": 1.352,
+        "UTC Zone Offset": 8,
+        "Longitude": 103.82
+    },
+    {
+        "Label": "",
+        "City Name": "Seattle",
+        "Latitude": 47.606,
+        "UTC Zone Offset": -7,
+        "Longitude": -122.332
+    },
+    {
+        "Label": "",
+        "City Name": "Tokyo",
+        "Latitude": 35.6762,
+        "UTC Zone Offset": 9,
+        "Longitude": 139.6503
+    },
+    {
+        "Label": "",
+        "City Name": "Regina",
+        "Latitude": 50.445,
+        "UTC Zone Offset": -6,
+        "Longitude": -104.619
+    }
+]}

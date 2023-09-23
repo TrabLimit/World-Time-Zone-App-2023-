@@ -1,0 +1,16 @@
+{"List of Cities": [
+    {
+        "Label": "School",
+        "City Name": "Surrey",
+        "Latitude": 49.1913,
+        "UTC Zone Offset": -7,
+        "Longitude": -122.849
+    },
+    {
+        "Label": "Harry Potter",
+        "City Name": "Surrey",
+        "Latitude": 51.3148,
+        "UTC Zone Offset": 0,
+        "Longitude": -0.56
+    }
+]}
