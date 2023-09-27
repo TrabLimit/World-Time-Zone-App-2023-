@@ -1,6 +1,8 @@
-# My Personal CPSC 210 Project:
+# My Personal Project #1:
 
 ## World Time Zone Tracker Application
+
+## WARNING: To run this program, make sure you have Coretto 11.0.20 JDK installed.
 
 ### What will the application do?
 
