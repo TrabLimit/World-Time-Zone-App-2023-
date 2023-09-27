@@ -71,7 +71,7 @@ public class CityList implements Writable {
     public void remove(int i) {
         if (0 <= i && i < this.listOfCities.size()) {
             this.listOfCities.remove(i);
-            EventLog.getInstance().logEvent(new Event(this.get(i) + " has been removed."));
+           // EventLog.getInstance().logEvent(new Event(this.get(i) + " has been removed."));
         }
     }
 
